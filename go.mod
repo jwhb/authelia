@@ -45,7 +45,7 @@ require (
 	github.com/stretchr/testify v1.10.0
 	github.com/trustelem/zxcvbn v1.0.1
 	github.com/valyala/fasthttp v1.58.0
-	github.com/weppos/publicsuffix-go v0.40.3-0.20250127173806-e489a31678ca
+	github.com/weppos/publicsuffix-go v0.40.3-0.20250207134653-f09c1e65adfc
 	github.com/wneessen/go-mail v0.5.2
 	go.uber.org/mock v0.5.0
 	golang.org/x/net v0.34.0
